@@ -1,0 +1,1 @@
+Machine Learning model to predict if a client will subscribe to the product based on customer characteristics , campaign characteristics, previous campaign information as well as whether customer ended up subscribing to the product as a result of that campaign or not.
